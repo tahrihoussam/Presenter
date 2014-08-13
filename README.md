@@ -3,4 +3,4 @@ Presenter
 
 Presenter API angular + node webkit
  
- prototype for parallilzer tools
+ presenter prototype for parallilzer tools
